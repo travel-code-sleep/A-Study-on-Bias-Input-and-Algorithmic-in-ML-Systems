@@ -1,8 +1,11 @@
 # A-Study-on-Bias-Input-and-Algorithmic-in-ML-Systems
 I explore different deep learning architecture for multi-class and multi-label classification and see how different architecture is classifying same text with slightly different labels and effect of input word vectors on models.
 
+![alt text](https://github.com/travel-code-sleep/A-Study-on-Bias-Input-and-Algorithmic-in-ML-Systems/blob/master/ml_systems.PNG)
 
+![alt text](https://github.com/travel-code-sleep/A-Study-on-Bias-Input-and-Algorithmic-in-ML-Systems/blob/master/life_wod_representation.PNG)
 
+![alt text](https://github.com/travel-code-sleep/A-Study-on-Bias-Input-and-Algorithmic-in-ML-Systems/blob/master/class.PNG)
 
 This folder consists of the original dataset, report, and the completed codes for the toxic comment classification and a study of bias.
    1.  For Data exploration and analysis code please refer to: EDA.ipynb
